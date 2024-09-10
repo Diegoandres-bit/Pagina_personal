@@ -1,0 +1,83 @@
+#principal{
+    margin: 100px auto;
+    align-items: center;
+    justify-content: center;
+    width:1100px ;
+    height: 1100px;
+    background-color: gainsboro;
+    border-radius: 20px;
+  
+}
+#banner{
+    width: 98%;
+    height: 100px;
+    background-color: white;
+    margin: 0 auto;
+    border-radius: 20px 20px;
+}
+#links{
+    margin: 0 auto;
+    align-items: center;
+}
+a{
+    text-decoration: none;
+    margin: 120px;
+    align-items: center;
+    
+}
+img{
+    width: 200px;
+   margin: 40px 100px;
+}
+textarea{
+    width: 50%;
+    height: 200px
+
+}
+#contacto{
+    width: 90%;
+    height: 180px;
+    background-color: white;
+    border-radius: 20px;
+    margin: auto;
+    justify-content: center;
+}
+h4{
+    text-decoration: black;
+    background-color: black;
+    color: white;
+    width: 7%;
+    border-radius: 20px;
+}
+#contactar_button{
+    width: 100px;
+    border-radius: 20px;
+    color: white;
+    background-color: black;
+    margin: 300px;
+}
+#footer_img{
+    width: 100px;
+    
+}
+#footer{
+display: flex;
+background-color: wheat;
+width: 98%;
+height: 350px;
+margin: 0 auto;
+border-radius: 20px;
+}
+#ancla_img{
+    width: 0px;
+}
+#pregunta{
+    margin: 200px;
+}
+#correo{
+    margin: 200px;
+}
+#pregunta_input{
+    
+}
+
